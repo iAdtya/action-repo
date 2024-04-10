@@ -2,6 +2,7 @@
 
 ## ngrok static domain
 ```
+https://calm-normal-burro.ngrok-free.app/receiver
 ```
 
 ```
