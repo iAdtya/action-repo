@@ -1,6 +1,6 @@
 # action-repo
 
-## ngrok static domain
+## ngrok static domain great
 ```
 https://calm-normal-burro.ngrok-free.app/receiver
 ```
