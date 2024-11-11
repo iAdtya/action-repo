@@ -1,7 +1,7 @@
 # action-repo
 
 ```
-this is just a dummy repo to send webhook actions to flask api !! great
+this is just a dummy repo to send webhook actions to flask API!! great
 ```
 
 pizza
