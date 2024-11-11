@@ -2,4 +2,4 @@
 
 
 def main():
-  return {"msg":"hello how are you doing !!"}
+  return {"msg": "hello doing !!"}
