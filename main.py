@@ -11,4 +11,4 @@ def mai_hoona():
   return {"text":"chal"}
 
 def blabla():
-  return True
+  return {"text":"babakbablablabalbalbabablabllbablalbabla"}
