@@ -18,3 +18,6 @@ def great():
 
 def fucked():
   return "ohhh yeah!!"
+
+def kardashev_scale():
+  return "pushing humanity up the kardashev scale !!"
