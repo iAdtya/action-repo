@@ -8,4 +8,4 @@ def changed():
   return False
 
 def mai_hoona():
-  return {"text":"chal lavde"}
+  return {"text":"chal"}
