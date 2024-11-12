@@ -24,3 +24,7 @@ def kardashev_scale():
 
 def kardashev_scale():
   return "pushing humanity up the kardashev scale !!"
+
+
+def blabla():
+  return {"text":"babakbablablabalbalbabablabllbablalbabla"}
