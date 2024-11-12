@@ -21,3 +21,6 @@ def fucked():
 
 def kardashev_scale():
   return "pushing humanity up the kardashev scale !!"
+
+def kardashev_scale():
+  return "pushing humanity up the kardashev scale !!"
