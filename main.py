@@ -10,5 +10,3 @@ def changed():
 def mai_hoona():
   return {"text":"chal"}
 
-def blabla():
-  return True
