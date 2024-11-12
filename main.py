@@ -12,3 +12,6 @@ def mai_hoona():
 
 def blabla():
   return {"text":"babakbablablabalbalbabablabllbablalbabla"}
+
+def great():
+  return True
