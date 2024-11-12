@@ -28,3 +28,7 @@ def kardashev_scale():
 
 def blabla():
   return {"text":"babakbablablabalbalbabablabllbablalbabla"}
+
+
+def main():
+  return {"msg": "hiii !!"}
