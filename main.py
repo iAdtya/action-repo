@@ -15,3 +15,6 @@ def blabla():
 
 def great():
   return True
+
+def fucked():
+  return "ohhh yeah!!"
